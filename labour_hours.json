@@ -1,0 +1,90 @@
+[
+  {
+    "employee_id": 0,
+    "first_name": "Cave",
+    "last_name": "Johnson",
+    "labour": [
+      {
+        "date": "53-07-20",
+        "total": 5.83,
+        "labour_by_time_period": {
+          "period1": 2.98,
+          "period2": 2.85,
+          "period3": 0,
+          "period4": 0
+        }
+      }
+    ]
+  },
+  {
+    "employee_id": 1,
+    "first_name": "Chell",
+    "last_name": "Johnson",
+    "labour": [
+      {
+        "date": "17-02-07",
+        "total": 4.76,
+        "labour_by_time_period": {
+          "period1": 1.91,
+          "period2": 2.85,
+          "period3": 0,
+          "period4": 0
+        }
+      },
+      {
+        "date": "17-02-04",
+        "total": 2.76,
+        "labour_by_time_period": {
+          "period1": 2.76,
+          "period2": 0,
+          "period3": 0,
+          "period4": 0
+        }
+      },
+      {
+        "date": "17-02-04",
+        "total": 7.8,
+        "labour_by_time_period": {
+          "period1": 0,
+          "period2": 5.53,
+          "period3": 2.27,
+          "period4": 0
+        }
+      }
+    ]
+  },
+  {
+    "employee_id": 2,
+    "first_name": "Doug",
+    "last_name": "Rattmann",
+    "labour": [
+      {
+        "date": "17-02-04",
+        "total": 7.57,
+        "labour_by_time_period": {
+          "period1": 0,
+          "period2": 0,
+          "period3": 3.49,
+          "period4": 4.08
+        }
+      }
+    ]
+  },
+  {
+    "employee_id": 3,
+    "first_name": "GLaDOS",
+    "last_name": null,
+    "labour": [
+      {
+        "date": "12-11-12",
+        "total": 48,
+        "labour_by_time_period": {
+          "period1": 14,
+          "period2": 12,
+          "period3": 10,
+          "period4": 12
+        }
+      }
+    ]
+  }
+]
