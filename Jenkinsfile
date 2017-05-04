@@ -4,7 +4,8 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'
+                sh 'cd /Users/Shared/Jenkins/code/push-operations-test'
+                sh 'git reset --hard origin/${env.BRANCH_NAME}'
             }
         }
         stage('Test') {
